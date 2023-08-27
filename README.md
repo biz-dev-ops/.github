@@ -1,2 +1,3 @@
-# .github
-BizDevOps opensource community tooling
+# BizDevOps
+
+BizDevOps opensource community tooling.
